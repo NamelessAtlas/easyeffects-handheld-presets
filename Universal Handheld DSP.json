@@ -4,10 +4,10 @@
         "equalizer#0": {
             "balance": 0.0,
             "bypass": false,
-            "input-gain": 0.0,
+            "input-gain": -3.0,
             "left": {
                 "band0": {
-                    "frequency": 80.0,
+                    "frequency": 90.0,
                     "gain": 0.0,
                     "mode": "RLC (BT)",
                     "mute": false,
@@ -19,7 +19,7 @@
                 },
                 "band1": {
                     "frequency": 160.0,
-                    "gain": 8.0,
+                    "gain": 7.5,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 0.8,
@@ -58,7 +58,7 @@
             "pitch-right": 0.0,
             "right": {
                 "band0": {
-                    "frequency": 80.0,
+                    "frequency": 90.0,
                     "gain": 0.0,
                     "mode": "RLC (BT)",
                     "mute": false,
@@ -70,7 +70,7 @@
                 },
                 "band1": {
                     "frequency": 160.0,
-                    "gain": 8.0,
+                    "gain": 7.5,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 0.8,
@@ -106,10 +106,10 @@
         },
         "maximizer#0": {
             "bypass": false,
-            "input-gain": 0.0,
+            "input-gain": 6.0,
             "output-gain": 0.0,
             "release": 10.0,
-            "threshold": -0.1
+            "threshold": -0.5
         },
         "plugins_order": [
             "equalizer#0",
@@ -122,7 +122,7 @@
             "bypass": false,
             "delay": 0.0,
             "dry": -100.0,
-            "input-gain": 0.0,
+            "input-gain": -3.0,
             "middle-level": 0.0,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
@@ -134,7 +134,7 @@
             "sc-level": 1.0,
             "side-balance": 0.0,
             "side-level": 3.0,
-            "softclip": true,
+            "softclip": false,
             "stereo-base": 0.4,
             "stereo-phase": 0.0,
             "wet": 0.0
