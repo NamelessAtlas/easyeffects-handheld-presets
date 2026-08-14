@@ -5,7 +5,7 @@ Presets availiable:
 
 - Universal Handheld EQ : includes HPF, EQ and brickwall limiter (maximizer)
 - Universal Handheld DSP : includes HPF, EQ, brickwall limiter and stereo processing
-- Universal Handheld DSP : includes a lower HPF, a bass-heavy EQ, brickwall limiter and stereo processing
+- Basshead Handheld DSP : includes a lower HPF, a bass-heavy EQ, brickwall limiter and stereo processing
 
 Presets being worked on :
 
