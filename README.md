@@ -1,4 +1,4 @@
-## EasyEffects Handheld Presets
+# EasyEffects Handheld Presets
 EasyEffects presets for handheld gaming PCs and laptops for [EasyEffects](https://github.com/wwmm/EasyEffects).
 
 All the following presets come with spatial audio, only EQ changes per device:
@@ -11,7 +11,7 @@ All the following presets come with spatial audio, only EQ changes per device:
 - LeGo2
 
 
-# Installation on any distribution, in desktop mode only:
+## Installation on any distribution, in desktop mode only:
 Install [EasyEffects](https://github.com/wwmm/EasyEffects), launch it, import the profile of your choice and click on it to load it.
 
 
