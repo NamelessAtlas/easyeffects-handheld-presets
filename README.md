@@ -1,15 +1,14 @@
 # EasyEffects Handheld Presets
-EasyEffects presets for handheld gaming PCs for [EasyEffects](https://github.com/wwmm/EasyEffects).
+EasyEffects presets for handheld gaming PCs and laptops for [EasyEffects](https://github.com/wwmm/EasyEffects).
 
-Presets availiable:
+All the following presets come with spatial audio, only EQ changes per device:
 
-- Universal Handheld EQ : includes HPF, EQ and brickwall limiter (maximizer)
-- Universal Handheld DSP : includes HPF, EQ, brickwall limiter and stereo processing
-- Basshead Handheld DSP : includes a lower HPF, a bass-heavy EQ, brickwall limiter and stereo processing
-
-Presets being worked on :
-
-- Device-specific calibrated profiles for various handhelds
+-Universal
+-Laptop
+-Basshead
+-Claw
+-XAX
+-LeGo2
 
 # Installation on any distribution, in desktop mode only:
 Install [EasyEffects](https://github.com/wwmm/EasyEffects), launch it, import the profile of your choice and click on it to load it.
