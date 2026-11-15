@@ -20,7 +20,7 @@ You can now open the gamemode session, EasyEffects will start automatically with
 
 If you want to have EasyEffects on desktop session too, you can check "Autostart on login" in the preferences.
 
-### Optional: Automatic Preset Switching
+# Optional: Automatic Preset Switching
 
 You can use [EasyEffects](https://github.com/wwmm/EasyEffects) preset autoloading to automatically enable or disable audio processing depending on the connected device.
 
